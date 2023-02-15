@@ -17,6 +17,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vim,lua,neovim,ruby,rails,html,css,bootstrap,stackoverflow,ps,ae,pr" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,git,github,vim,lua,neovim,ruby,rails,html,css,sass,bootstrap,tailwind,ps,ae,pr" />
+  </a>
+</p>
+
+### Actually Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=docker,ts,express"/>
   </a>
 </p>
