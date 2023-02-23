@@ -25,6 +25,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=docker,ts,express"/>
+     <img src="https://skillicons.dev/icons?i=docker,ts,next,express"/>
   </a>
 </p>
