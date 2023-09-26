@@ -8,8 +8,8 @@
 
 ## Who I am ?
 
-- 🥅 2022 Goals: Learn the fundamentals of code !
-- 🌱 I’m currently learning Ruby, Rails and a lot of things
+- 🥅 2023 Goals: Find my first job as a developper !
+- 🌱 I’m currently learning nextjs, bun, docker and expressjs
 - 👯 I’m looking to collaborate with other content creators to learn more !
 - ⚡ Fun fact: I love to play video games, and do photography
 
