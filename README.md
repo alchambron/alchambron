@@ -1,6 +1,5 @@
 ## Hi, I'm Alexis Chambron !
-<p><em>Full Stack Developper</br>Learning Developpment at <a href="https://www.thehackingproject.org/parcours">The Hacking Project</a>
-</em></p>
+<p><em>Ruby On Rails Developper</br>
 
 [![Twitter alexishiro](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlexisHiro) 
 [![linkedin alchambron](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alchambron/) 
@@ -8,7 +7,7 @@
 
 ## Who I am ?
 
-- 🥅 2023 Goals: Find my first job as a developper !
+- 🥅 2024 Goals: Getting better days after days !
 - 🌱 I’m currently learning nextjs, bun, docker and expressjs
 - 👯 I’m looking to collaborate with other content creators to learn more !
 - ⚡ Fun fact: I love to play video games, and do photography
