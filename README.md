@@ -7,7 +7,7 @@
 
 ## Who I am ?
 
-- 🥅 2024 Goals: Getting better days after days !
+- 🥅 2026 Goals: Learning more about Machine Learning and AI programming !
 - 🌱 I’m currently learning nextjs, bun, docker and expressjs
 - 👯 I’m looking to collaborate with other content creators to learn more !
 - ⚡ Fun fact: I love to play video games, and do photography
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,git,github,vim,lua,neovim,ruby,rails,html,css,sass,bootstrap,tailwind,ps,ae,pr" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,github,vim,lua,neovim,java,spring,docker,ruby,rails,html,css,sass,bootstrap,tailwind,ps,ae,pr" />
   </a>
 </p>
 
@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=docker,ts,next,express"/>
+     <img src="https://skillicons.dev/icons?i=bun"/>
   </a>
 </p>
